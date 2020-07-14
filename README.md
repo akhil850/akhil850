@@ -20,14 +20,13 @@ I'm [Akhil!](https://sayat.me/akhilsvarughese)
 </a>
 <br/>
 <br/>
-<img align="right" height="270px" width="450px" alt="GIF" src="https://media.giphy.com/media/Lny6Rw04nsOOc/giphy.gif" />
-<br />
-<br/>
+<p>
 **Interests:"**
 
 **Cloud Computing**
-
+<p/>
 <br />
+<img align="right" height="270px" width="450px" alt="GIF" src="https://media.giphy.com/media/Lny6Rw04nsOOc/giphy.gif" />
 <hr>
 
 ### - Languages and Tools...
