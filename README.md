@@ -1,7 +1,6 @@
 ### Hello World,
 
 I'm [Akhil!](https://sayat.me/akhilsvarughese)
-
 <br/>
 <a href="https://twitter.com/akhilsvarughese">
   <img align="left" alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
