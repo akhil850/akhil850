@@ -49,4 +49,5 @@ I'm [Akhil!](https://sayat.me/akhilsvarughese)
 <br/>
 <hr>
 <br/>
-#### Thank You-🙏🏼
+
+#### Thank You
