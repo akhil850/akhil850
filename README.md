@@ -1,7 +1,7 @@
 ### Hello World,
 
 I'm [Akhil!](https://sayat.me/akhilsvarughese)
-
+### Self-taught Administrator/Developer from India.
 <br/>
 <a href="https://twitter.com/akhilsvarughese">
   <img align="left" alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
@@ -19,7 +19,6 @@ I'm [Akhil!](https://sayat.me/akhilsvarughese)
   <img align="left" alt=" Reddit" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/reddit.svg" />
 </a>
 <br />
-### I'm a Self-taught Administrator/Developer from India.
 <img align="right" height="270px" width="450px" alt="GIF" src="https://media.giphy.com/media/paVD7uL8uz6us/giphy.gif" />
 <br />
 
