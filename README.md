@@ -32,10 +32,7 @@ I'm [Akhil!](https://sayat.me/akhilsvarughese)
 **Machine Learning, Web Development, SEO, Micro Services, System Design, Competetive Programming & Physics and Physics 😼**
 
 <br />
-
-***********************************
-
-<br />
+<hr>
 
 ### - Languages and Tools...
 
@@ -48,8 +45,7 @@ I'm [Akhil!](https://sayat.me/akhilsvarughese)
 <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/misc/chrome.svg" alt="Twitter" style="vertical-align:top; margin:4px">
 <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/tools/bash.svg" alt="Twitter" style="vertical-align:top; margin:4px">
 <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/tools/visualstudio_code.svg" alt="Twitter" style="vertical-align:top; margin:4px">
-
 </p>
-<br /
-***********************************
+<br/>
+<hr>
 #### Thank You-🙏🏼
