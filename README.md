@@ -1,7 +1,6 @@
-### Hello World, 
+### Hello World,
 
-  I'm [Akhil!](https://sayat.me/akhilsvarughese)
-
+I'm [Akhil!](https://sayat.me/akhilsvarughese)
 
 <br/>
 <a href="https://twitter.com/akhilsvarughese">
@@ -37,7 +36,7 @@
 
 
 
-#### - 🔭 SpaceX FanBoi, 
+#### - 🔭 SpaceX FanBoi,
 
 #### - 🛸 Into Hight Energy Physics and Astrophysics
 
@@ -69,20 +68,15 @@
 ### - Blogs 🌱
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/blogs/devto.svg"> 
+<img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/blogs/devto.svg">
 </p>
 
 ### - Podcast ⚡️
 <p align="center">
-  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/streaming/podcast.svg"> 
+  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/streaming/podcast.svg">
 </p>
 
 
 ***********************************
 
 #### Thank You-🙏🏼
-
-
-
-
-  
