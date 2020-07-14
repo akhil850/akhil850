@@ -22,7 +22,7 @@ I'm [Akhil!](https://sayat.me/akhilsvarughese)
 <br/>
 <img align="right" height="270px" width="450px" alt="GIF" src="https://media.giphy.com/media/Lny6Rw04nsOOc/giphy.gif" />
 <br />
-
+<br/>
 **Interests:"**
 
 **Cloud Computing**
