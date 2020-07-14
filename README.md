@@ -27,9 +27,9 @@ I'm [Akhil!](https://sayat.me/akhilsvarughese)
 #### - 🔭 SpaceX FanBoi,
 <br />
 
-**I am Into , 🙏**
+**Interests**
 
-**Machine Learning, Web Development, SEO, Micro Services, System Design, Competetive Programming & Physics and Physics 😼**
+**Cloud Computing**
 
 <br />
 <hr>
