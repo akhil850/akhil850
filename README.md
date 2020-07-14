@@ -18,9 +18,9 @@ I'm [Akhil!](https://sayat.me/akhilsvarughese)
 <a href="https://www.reddit.com/user/akhil850">
   <img align="left" alt=" Reddit" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/reddit.svg" />
 </a>
-<br />
+<br/>
+<br/>
 <img align="right" height="270px" width="450px" alt="GIF" src="https://media.giphy.com/media/Lny6Rw04nsOOc/giphy.gif" />
-<br />
 <br />
 
 **Interests:"**
