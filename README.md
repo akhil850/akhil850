@@ -1,11 +1,8 @@
 ### Hello World,
 
 I'm [Akhil!](https://sayat.me/akhilsvarughese)
-#### Self-taught Administrator/Developer from India.
+#### Self-taught Administrator/Developer.
 <br/>
-<a href="https://twitter.com/akhilsvarughese">
-  <img align="left" alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
-</a>
 <a href="https://soundcloud.com/akhilvarughese">
   <img align="left" alt="SoundCloud" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/soundcloud.svg" />
 </a>
