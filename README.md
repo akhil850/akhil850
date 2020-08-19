@@ -3,7 +3,10 @@
 I'm [Akhil!](https://sayat.me/akhilsvarughese)
 #### Self-taught Administrator/Developer.
 <br/>
-<a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='50' height='50'></a>
+<a href='https://archiveprogram.github.com/'>
+<img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'>
+<img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'>
+<img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='50' height='50'></a></br>
 <a href="https://soundcloud.com/akhilvarughese">
   <img align="left" alt="SoundCloud" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/soundcloud.svg" />
 </a>
