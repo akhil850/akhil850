@@ -20,7 +20,9 @@ I'm [Akhil!](https://sayat.me/akhilsvarughese)
 <p>
 **Interests:"**
 
+**Linux**
 **Cloud Computing**
+**Infrastructure Administration**
 <p/>
 <br />
 <img align="right" height="270px" width="450px" alt="GIF" src="https://media.giphy.com/media/Lny6Rw04nsOOc/giphy.gif" />
