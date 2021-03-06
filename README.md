@@ -24,11 +24,11 @@
 <img style="margin: 10px" src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="GCP" height="50" />  
 <img style="margin: 10px" src="https://github.com/devicons/devicon/raw/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" height="50" />  
 <img style="margin: 10px" src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="Azure" height="50" />  
-<img style="margin: 10px" src="https://devicons.github.io/devicon/devicon.git/icons/nginx/nginx-original.svg" alt="Nginx" height="50" />  
+<img style="margin: 10px" src="https://github.com/devicons/devicon/raw/master/icons/nginx/nginx-original.svg" alt="Nginx" height="50" />  
 <img style="margin: 10px" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" height="50" />  
-<img style="margin: 10px" src="https://devicons.github.io/devicon/devicon.git/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" height="50" />  
-<img style="margin: 10px" src="https://devicons.github.io/devicon/devicon.git/icons/dot-net/dot-net-original-wordmark.svg" alt=".NET" height="50" />  
-<img style="margin: 10px" src="https://devicons.github.io/devicon/devicon.git/icons/php/php-original.svg" alt="PHP" height="50" />  
+<img style="margin: 10px" src="https://github.com/devicons/devicon/raw/master/icons/mysql/mysql-original.svg" alt="MySQL" height="50" />  
+<img style="margin: 10px" src="https://github.com/devicons/devicon/raw/master/icons/dot-net/dot-net-original.svg" alt=".NET" height="50" />  
+<img style="margin: 10px" src="https://github.com/devicons/devicon/raw/master/icons/php/php-plain.svg" alt="PHP" height="50" />  
 <img style="margin: 10px" src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="Bash" height="50" />  
 </div>  
 
