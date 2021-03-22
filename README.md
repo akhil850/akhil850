@@ -6,7 +6,7 @@
 ### <div align="center">I'm Akhil, a Self-taught Administrator/Developer 👨‍💻 working remotely. </div>  
 
 
-- 🌱 I’m currently learning Python  
+- 🌱 I’m currently learning Devops & Python  
 
 
 - ⚡ Fun fact: 💗  Linux  
