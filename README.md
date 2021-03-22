@@ -19,7 +19,9 @@
 
 
 ## My Skill Set  
-<div align="center">  
+<div align="center">
+
+<img style="margin: 10px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" height="50" />
 <img style="margin: 10px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" height="50" />
 <img style="margin: 10px" src="https://github.com/devicons/devicon/raw/master/icons/windows8/windows8-original.svg" alt="Linux" height="50" />    
 <img style="margin: 10px" src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="GCP" height="50" />  
