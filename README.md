@@ -1,74 +1,86 @@
+<!-- Banner -->
 <div align="center">
-<img src="https://media.giphy.com/media/Lny6Rw04nsOOc/giphy.gif" align="center" height="350" width="600" />
-</div>  
+  <img src="https://media.giphy.com/media/Lny6Rw04nsOOc/giphy.gif" align="center" height="350" width="600" />
+</div>
 
+<h1 align="center">Hi, I'm Akhil 👋</h1>
+<h3 align="center">🚀 Lead DevOps Engineer | Automating Infrastructure & Delivering Scalable Solutions</h3>
 
-### <div align="center">I'm Akhil, a self-taught Developer turned DevOps engineer 👨‍💻, currently working remotely. </div>
- 
-- 🌱 I’m currently into Devops & Python  
-- ⚡ Fun fact: 💗  Linux  
+<p align="center">
+💻 Self-taught developer turned DevOps Engineer with 6+ years of experience in automation, cloud, CI/CD, and container orchestration.<br>
+⚡ Passionate about Linux, problem-solving, and helping teams deliver faster with reliability.
+</p>
 
+---
 
+## 🌱 About Me
+- 🌐 Currently working **remotely** as a Lead DevOps Engineer
+- 🐧 Fun fact: I ❤️ Linux and can spend hours tweaking dotfiles
+- 📈 Always learning — currently deep diving into **Python** & **Cloud-native DevOps**
+- 💬 Ask me about **automation, CI/CD pipelines, Kubernetes, and cloud cost optimization**
 
-## My Skill Set  
+---
+
+## 🛠 Tech Stack
+
+**☁️ Cloud & Platforms**  
+<img src="https://github.com/devicons/devicon/raw/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="40"/> 
+<img src="https://github.com/devicons/devicon/raw/master/icons/azure/azure-original-wordmark.svg" height="40"/> 
+<img src="https://github.com/devicons/devicon/raw/master/icons/googlecloud/googlecloud-original-wordmark.svg" height="40"/> 
+<img src="https://github.com/devicons/devicon/raw/master/icons/oracle/oracle-original.svg" height="40"/>  
+
+**📦 Containers & Orchestration**  
+<img src="https://github.com/devicons/devicon/raw/master/icons/docker/docker-original-wordmark.svg" height="40"/> 
+<img src="https://github.com/devicons/devicon/raw/master/icons/podman/podman-original-wordmark.svg" height="40"/> 
+<img src="https://github.com/devicons/devicon/raw/master/icons/kubernetes/kubernetes-plain.svg" height="40"/> 
+<img src="https://github.com/devicons/devicon/raw/master/icons/argocd/argocd-original-wordmark.svg" height="40"/>  
+
+**⚙️ CI/CD & Automation**  
+<img src="https://github.com/devicons/devicon/raw/master/icons/ansible/ansible-original-wordmark.svg" height="40"/> 
+<img src="https://github.com/devicons/devicon/raw/master/icons/jenkins/jenkins-original.svg" height="40"/> 
+<img src="https://github.com/devicons/devicon/raw/master/icons/github/github-original-wordmark.svg" height="40"/> 
+<img src="https://github.com/devicons/devicon/raw/master/icons/gitlab/gitlab-original-wordmark.svg" height="40"/>  
+
+**🗄 Databases**  
+<img src="https://github.com/devicons/devicon/raw/master/icons/mysql/mysql-original-wordmark.svg" height="40"/> 
+<img src="https://github.com/devicons/devicon/raw/master/icons/postgresql/postgresql-original-wordmark.svg" height="40"/> 
+<img src="https://github.com/devicons/devicon/raw/master/icons/mongodb/mongodb-original-wordmark.svg" height="40"/> 
+<img src="https://github.com/devicons/devicon/raw/master/icons/redis/redis-original-wordmark.svg" height="40"/>  
+
+**📊 Monitoring & Logging**  
+<img src="https://github.com/devicons/devicon/raw/master/icons/prometheus/prometheus-original-wordmark.svg" height="40"/> 
+<img src="https://github.com/devicons/devicon/raw/master/icons/grafana/grafana-original-wordmark.svg" height="40"/> 
+<img src="https://github.com/devicons/devicon/raw/master/icons/apachekafka/apachekafka-original-wordmark.svg" height="40"/>  
+
+**💻 Languages & Tools**  
+<img src="https://github.com/devicons/devicon/raw/master/icons/python/python-original-wordmark.svg" height="40"/> 
+<img src="https://github.com/devicons/devicon/raw/master/icons/bash/bash-original.svg" height="40"/> 
+<img src="https://github.com/devicons/devicon/raw/master/icons/linux/linux-original.svg" height="40"/> 
+<img src="https://github.com/devicons/devicon/raw/master/icons/dot-net/dot-net-original-wordmark.svg" height="40"/> 
+<img src="https://github.com/devicons/devicon/raw/master/icons/vscode/vscode-original-wordmark.svg" height="40"/> 
+<img src="https://github.com/devicons/devicon/raw/master/icons/wordpress/wordpress-original.svg" height="40"/> 
+<img src="https://github.com/devicons/devicon/raw/master/icons/canva/canva-original.svg" height="40"/>  
+
+---
+
+## 📈 GitHub Stats
 <div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=akhil850&show_icons=true&count_private=true&theme=radical" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akhil850&layout=compact&theme=radical" height="150"/>
+</div>
 
-<img style="margin: 10px" src="https://github.com/devicons/devicon/raw/master/icons/docker/docker-original-wordmark.svg" alt="Docker" height="50" />
-<img style="margin: 10px" src="https://github.com/devicons/devicon/raw/master/icons/podman/podman-original-wordmark.svg" alt="podman" height="50" />
-<img style="margin: 10px" src="https://github.com/devicons/devicon/raw/master/icons/kubernetes/kubernetes-plain.svg" alt="kubernetes" height="50" />
-<img style="margin: 10px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" height="50" />
-<img style="margin: 10px" src="https://github.com/devicons/devicon/raw/master/icons/windows8/windows8-original.svg" alt="Linux" height="50" />    
-<img style="margin: 10px" src="https://github.com/devicons/devicon/raw/master/icons/googlecloud/googlecloud-original-wordmark.svg" alt="GCP" height="50" /> 
-<img style="margin: 10px" src="https://github.com/devicons/devicon/raw/master/icons/oracle/oracle-original.svg" alt="GCP" height="50" /> 
-<img style="margin: 10px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" height="50" /> 
-<img style="margin: 10px" src="https://github.com/devicons/devicon/raw/master/icons/azure/azure-original-wordmark.svg" alt="Azure" height="50" /> 
-<img style="margin: 10px" src="https://github.com/devicons/devicon/raw/master/icons/dot-net/dot-net-original-wordmark.svg" alt=".NET" height="50" />
-<img style="margin: 10px" src="https://github.com/devicons/devicon/raw/master/icons/bash/bash-original.svg" alt="Bash" height="50" />  
-<img style="margin: 10px" src="https://github.com/devicons/devicon/raw/master/icons/ansible/ansible-original-wordmark.svg" alt="Ansible" height="50" /> 
-<img style="margin: 10px" src="https://github.com/devicons/devicon/raw/master/icons/apachekafka/apachekafka-original-wordmark.svg" alt="Kafka" height="50" />
-<img style="margin: 10px" src="https://github.com/devicons/devicon/raw/master/icons/argocd/argocd-original-wordmark.svg" alt="argocd" height="50" />
-<img style="margin: 10px" src="https://github.com/devicons/devicon/raw/master/icons/canva/canva-original.svg" alt="canva" height="50" />
-<img style="margin: 10px" src="https://github.com/devicons/devicon/raw/master/icons/github/github-original-wordmark.svg" alt="git" height="50" />
-<img style="margin: 10px" src="https://github.com/devicons/devicon/raw/master/icons/gitlab/gitlab-original-wordmark.svg" alt="gitlab" height="50" />
-<img style="margin: 10px" src="https://github.com/devicons/devicon/raw/master/icons/grafana/grafana-original-wordmark.svg" alt="grafana" height="50" />
-<img style="margin: 10px" src="https://github.com/devicons/devicon/raw/master/icons/inkscape/inkscape-original-wordmark.svg" alt="inkscape" height="50" />
-<img style="margin: 10px" src="https://github.com/devicons/devicon/raw/master/icons/jenkins/jenkins-original.svg" alt="jenkins" height="50" />
-<img style="margin: 10px" src="https://github.com/devicons/devicon/raw/master/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" alt="microsoftsqlserver" height="50" />
-<img style="margin: 10px" src="https://github.com/devicons/devicon/raw/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" height="50" />
-<img style="margin: 10px" src="https://github.com/devicons/devicon/raw/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" height="50" />
-<img style="margin: 10px" src="https://github.com/devicons/devicon/raw/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" height="50" />
-<img style="margin: 10px" src="https://github.com/devicons/devicon/raw/master/icons/prometheus/prometheus-original-wordmark.svg" alt="prometheus" height="50" />
-<img style="margin: 10px" src="https://github.com/devicons/devicon/raw/master/icons/python/python-original-wordmark.svg" alt="python" height="50" />
-<img style="margin: 10px" src="https://github.com/devicons/devicon/raw/master/icons/redhat/redhat-original-wordmark.svg" alt="redhat" height="50" />
-<img style="margin: 10px" src="https://github.com/devicons/devicon/raw/master/icons/redis/redis-original-wordmark.svg" alt="redis" height="50" />
-<img style="margin: 10px" src="https://github.com/devicons/devicon/raw/master/icons/vscode/vscode-original-wordmark.svg" alt="vscode" height="50" />
-<img style="margin: 10px" src="https://github.com/devicons/devicon/raw/master/icons/wordpress/wordpress-original.svg" alt="wordpress" height="50" />
-</div> 
+---
 
+## 🤝 Connect With Me
+<p align="center">
+  <a href="https://github.com/akhil850"><img src="https://img.shields.io/badge/-GitHub-000?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/your-link"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://twitter.com/your-handle"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
+  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+</p>
 
-## Connect with me  
-<div align="center">
-<a href="https://github.com/akhil850" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-<a href="https://twitter.com/#" target="_blank">
-<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
-</a>
-<a href="https://linkedin.com/in/#" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>
-<a href="https://stackoverflow.com/users/#" target="_blank">
-<img src=https://img.shields.io/badge/stackoverflow-%23F28032.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white alt=stackoverflow style="margin-bottom: 5px;" />
-</a>
-<a href="https://dev.to/#" target="_blank">
-<img src=https://img.shields.io/badge/dev.to-%2308090A.svg?&style=for-the-badge&logo=dev.to&logoColor=white alt=devto style="margin-bottom: 5px;" />
-</a>  
-</div>  
+---
 
-
-## Github Stats  
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=akhil850&show_icons=true&count_private=true" align="center" /></div>
-<br />
-
-----
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=akhil850&label=Visitors&color=0e75b6&style=flat" alt="visitor badge"/>
+</p>
